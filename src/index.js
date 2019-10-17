@@ -13,5 +13,5 @@ function myName(props)
     return <h1>hello,{props.name}</h1>;
 }
 const element = <myName name = "Sara" />;
-//added comments
+
 ReactDOM.render(element, document.getElementById('root'));
