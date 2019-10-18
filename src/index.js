@@ -15,3 +15,5 @@ function myName(props)
 const element = <myName name = "Sara" />;
 //added comments
 ReactDOM.render(element, document.getElementById('root'));
+
+//welcome to git-hub
