@@ -13,8 +13,15 @@ function myName(props)
     return <h1>hello,{props.name}</h1>;
 }
 const element = <myName name = "Sara" />;
+<<<<<<< HEAD
 const element1 = <MyName name ="hey" />;
 
 ReactDOM.render(element, document.getElementById('root'));
 
 //test
+=======
+//added comments
+ReactDOM.render(element, document.getElementById('root'));
+
+//welcome to git-hub
+>>>>>>> 91e15a424c182e06b90e3be7aba402daac6ca30b
