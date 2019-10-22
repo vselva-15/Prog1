@@ -14,10 +14,14 @@ function myName(props)
 }
 const element = <myName name = "Sara" />;
 <<<<<<< HEAD
+<<<<<<< HEAD
+const element1 = <MyName name ="hey" />;
+=======
+>>>>>>> ef94dd0615930c39c4f406ca6642f5cfc168a4ea
+
 const element1 = <MyName name ="hey" />;
 
-ReactDOM.render(element, document.getElementById('root'));
-
+<<<<<<< HEAD
 //test
 =======
 //added comments
@@ -25,3 +29,7 @@ ReactDOM.render(element, document.getElementById('root'));
 
 //welcome to git-hub
 >>>>>>> 91e15a424c182e06b90e3be7aba402daac6ca30b
+=======
+ReactDOM.render(element, document.getElementById('root'));
+
+>>>>>>> ef94dd0615930c39c4f406ca6642f5cfc168a4ea
