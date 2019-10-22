@@ -20,6 +20,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <newtues />
       <contact />
     </div>
   );
